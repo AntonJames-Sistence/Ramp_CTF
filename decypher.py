@@ -1,7 +1,7 @@
 import hashlib
 
-given_hash = '50425c8f663d3453ba3eaabb569baf42'
-salt = 'f589082d0f14'
+given_hash = 'b1fb3f9555820af69626dc561da4cadf'
+salt = 'd958bc7dc5d2'
 
 result = []
 
